@@ -8,3 +8,5 @@ This code takes four inputs in the command line:
 * ** Degree(int between 1 and 10) which specifies the value of φ **
 * ** λ(non negative real number which is used for regularization) **
 * ** Testing file name **
+
+Testing
